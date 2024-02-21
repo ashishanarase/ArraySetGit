@@ -7,7 +7,7 @@ public class DuplicateElementsFromArray {
 
 	public static void main(String[] args) {
 
-		//Set Interface=Limitation Element can not be repeated more than two times	
+		//Set Interface=Limitation Element can not be repeated more than two time
 		int [] a = {1,2,3,1,2,3,1,2,3,4,5};	//Initialization & Declaration3
 
 		System.out.println("Duplicate Values In Given Array");
