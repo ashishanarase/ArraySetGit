@@ -12,7 +12,7 @@ class add_Object              //1] add(value)      Ex:- add("Hello");
 		obj.add("Hello");          //1st way
 		System.out.println(obj);
 
-		obj.add(1,"true");         //2nd way
+		obj.add(3,"trueee");         //2nd way
 		System.out.println(obj);
 	}
 }
