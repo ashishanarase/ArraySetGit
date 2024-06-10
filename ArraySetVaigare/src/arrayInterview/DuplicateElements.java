@@ -12,7 +12,7 @@ public class DuplicateElements {
 		for (int i=0; i<a.length-1;i++) {
 
 			for (int j= i+1; j<a.length;j++) {
-				if (a[i]==a[j] && (i!=j)) {
+				if (a[i]==a[j]) {
 					System.out.print(a[j]+", ");
 				}
 			}
