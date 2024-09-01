@@ -14,5 +14,7 @@ class add_Object              //1] add(value)      Ex:- add("Hello");
 
 		obj.add(3,"trueee");         //2nd way
 		System.out.println(obj);
+		
+		System.out.println(obj.get(0));
 	}
 }
